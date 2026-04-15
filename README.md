@@ -9,9 +9,9 @@
 
 | | |
 |---|---|
-| **Nama** | *(isi nama kamu)* |
-| **Kelas** | XI RPL *(isi nomornya)* |
-| **Absen** | *(isi nomor absen)* |
+| **Nama** | Aliyyi Akbar El Khomeini |
+| **Kelas** | XI RPL 3 |
+| **Absen** | 02 |
 
 ---
 
