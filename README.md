@@ -144,8 +144,8 @@ Form input nilai dengan dropdown pemilihan siswa.
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/USERNAME/NAMA-REPO.git
-cd NAMA-REPO
+git clone https://github.com/Aliyyi-glitch/Laravel-Eloquent-Aliyyi.git
+cd Laravel-Eloquent-Aliyyi
 
 # 2. Install dependencies
 composer install
